@@ -1,1 +1,1 @@
-# created to learn some extra things about mapd and locations
+# created to learn some extra things about map and locations
