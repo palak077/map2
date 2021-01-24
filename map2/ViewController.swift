@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     func maptesting()
     {
         print("hello")
+        print("world")
     }
 
 }
